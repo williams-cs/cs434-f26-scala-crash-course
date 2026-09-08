@@ -1,0 +1,13 @@
+*.class
+*.log
+*~
+*.output
+
+target/
+.bsp/
+.metals/
+.bloop/
+.vscode/
+.idea/
+.DS_Store
+.scala-build/
